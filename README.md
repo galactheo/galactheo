@@ -12,4 +12,7 @@ With a strong passion for numbers and data, I transitioned from a background in 
 ## 📈 My Projects
 These are some of my main projects, but you can click here to check out my full portfolio.
 
+### 👩🏻‍⚕️ [Analyzing International Students' Mental Health](https://github.com/galactheo/portfolio/blob/main/mental-health.md)
+In this project, we analyze a dataset on the mental health of international students to identify which factors may have the greatest impact on their mental well-being.
+
 ## 🤝 You can connect with me via [LinkedIn](linkedin.com/in/theo-thiago/)
