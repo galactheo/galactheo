@@ -1,19 +1,15 @@
 # 👋 Hello, world!
 
-I'm Theo, a Data Analyst with 4 years of experience in Paid Media optimization and strategy.
+I'm a data professional with 6+ years of experience in Marketing, Analytics, and Growth, with a strong focus on using data to understand performance, identify opportunities, and support business decisions.
 
-With a strong passion for numbers and data, I'm transitioning from a background in Digital Marketing into the world of Data Science, where I continue to grow my technical and analytical skills.
+Throughout my career, I've worked with companies across different industries, combining business strategy with data analysis, experimentation, and performance measurement. My experience includes working with data from multiple platforms, developing reports and dashboards, and conducting statistical analyses to better understand consumer behavior, marketing effectiveness, and business outcomes.
 
-## My Skills
-- Querying and managing databases using SQL
-- Building dashboards and reports with Looker Studio, Excel/Google Sheets and Power Point/Slides
-- Programming with Python (Numpy, Pandas, Matplotlib, Seaborn)
+Over time, my interest in data evolved beyond reporting and performance analysis, leading me to pursue Data Science. I'm currently expanding my technical skills through the TripleTen Data Science program, working with Python, SQL, and libraries such as Pandas, NumPy, Matplotlib, SciPy, and Scikit-learn. My projects cover exploratory data analysis, hypothesis testing, machine learning, predictive modeling, and time series forecasting.
 
-## My Portfolio
-- [Customer Segmentation with K-Means](https://github.com/galactheo/client-clustering-analysis)
-- [E-Commerce Sales Analysis](https://github.com/galactheo/olist_ecomm-analysis)
+Today, I continue working in Data Analytics and Growth, applying data-driven approaches to business challenges while developing my expertise in statistical analysis and machine learning.
 
-## 🤝 Connect with me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/theo-thiago/)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/galactheo)
-[![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:theomneves@gmail.com)
+My goal is to bring together business experience, analytical thinking, and technical skills to solve complex problems and support better decision-making.
+
+## 🤝 Let's connect!
+LinkedIn: https://www.linkedin.com/in/theo-thiago/
+Email: theomneves@gmail.com
